@@ -94,15 +94,6 @@ I visited to the market yesterday and purchased some vegetables.
 * **Flask**
 * **HTML, CSS, JavaScript**
 * **LanguageTool API**
-
----
-
-## ⚠️ Limitations
-
-* Paraphrasing is basic (rule-based)
-* Requires internet for grammar correction API
-* Not as advanced as tools like Grammarly or AI models
-
 ---
 
 ## 💡 Future Improvements
