@@ -115,12 +115,6 @@ I visited to the market yesterday and purchased some vegetables.
 
 ---
 
-## 🙌 Author
-
-Your Name
-
----
-
 ## 📄 License
 
 This project is open-source and free to use.
