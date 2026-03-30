@@ -33,7 +33,7 @@ project/
 ### 1. Clone or Download Project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Lvgs3033/Grammar-checker?tab=readme-ov-file#-features
 cd project
 ```
 
